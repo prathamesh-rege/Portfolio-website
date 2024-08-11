@@ -1,5 +1,5 @@
 -- # Prathamesh-Rege.github.io
-# AI/ML Engineer
+# AI/ML Engineer | Data Scientist
 
 ### Education
 Northeastern University
