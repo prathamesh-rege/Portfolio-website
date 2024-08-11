@@ -1,4 +1,3 @@
--- # Prathamesh-Rege.github.io
 # AI/ML Engineer | Data Scientist
 
 ### Education
